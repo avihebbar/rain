@@ -1,5 +1,10 @@
 # rain
 
+### Note
+
+- Use [zsh](https://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692)
+- [Badassify your terminal](http://jilles.me/badassify-your-terminal-and-shell/) if you have not
+
 ### Installing
 
 ```sh
@@ -25,4 +30,3 @@ rain
 # Stop rain
 sun
 ```
-
