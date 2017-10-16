@@ -1,11 +1,5 @@
 # rain
 
-### Note
-
-- Get a [MacBook Pro](https://www.apple.com/macbook-pro/)
-- Utilise your [terminal](http://jilles.me/badassify-your-terminal-and-shell/)
-- Still not using [zsh](https://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692)?
-
 ### Installing
 
 ```sh
