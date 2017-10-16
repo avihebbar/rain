@@ -1,6 +1,6 @@
 # rain
 
-## Installing
+### Installing
 
 ```sh
 # Download rain audio file
@@ -16,7 +16,7 @@ echo "\nfunction rain() {\n\techo Start raining...\n\tafplay -q 1 ~/Music/rain.m
 source ~/.zshrc
 ```
 
-## Using
+### Using
 
 ```sh
 # Play rain in the background
